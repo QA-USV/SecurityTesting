@@ -1,6 +1,6 @@
 ## [Решение к заданию «SQL, XSS, Code и другие инъекции»](https://drive.google.com/file/d/1ODY0Py30UFCluD7E440XLuu6PLRJnAs2/view?usp=sharing)
 
-## Домашнее задание к лекции 3 «SQL, XSS, Code и другие инъекции»
+## Домашнее задание «SQL, XSS, Code и другие инъекции»
 
 ### Цель задания
 
